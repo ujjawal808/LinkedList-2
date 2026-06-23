@@ -1,4 +1,4 @@
-//In the we have tomdetect whether a node contains a cycle or not
+ //In the we have to detect whether a node contains a cycle or not
 import java.util.*;
 public class detectingCycle{
     public static class Node{
